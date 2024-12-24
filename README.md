@@ -1,7 +1,7 @@
 # Automated-News-Categorization-Using-Data-Science-Techniques
 
 **Project Title**
-"Automated News Categorization and Analysis Using Machine Learning"
+_"Automated News Categorization and Analysis Using Machine Learning"_
 
 **Problem Statement**
 With the exponential growth of online news content, manually categorizing and analyzing news articles is time-consuming and inefficient. Dawn's website publishes a variety of news articles daily, making it challenging for users to access information organized by their interests or categories. This project aims to automate the process of categorizing news articles into predefined categories using machine learning models and web scraping techniques. The proposed solution will provide accurate and organized news data, enhancing user experience and enabling efficient data analysis for trends and insights.
